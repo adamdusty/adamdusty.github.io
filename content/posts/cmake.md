@@ -2,7 +2,6 @@
 title = "CMake Intro"
 date = "2023-11-20"
 template = "blog-page.html"
-draft = true
 
 extra.author = "Adam D"
 +++
